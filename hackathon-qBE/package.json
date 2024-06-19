@@ -22,7 +22,7 @@
   "dependencies": {
     "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^9.0.0",
-    "@nestjs/mongoose": "^10.0.1",
+    "@nestjs/mongoose": "^10.0.6",
     "@nestjs/platform-express": "^9.0.0",
     "mongoose": "^7.6.4",
     "reflect-metadata": "^0.1.13",
